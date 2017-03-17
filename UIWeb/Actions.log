@@ -1,0 +1,21 @@
+16.4.2009 5:31:54 Entry to LogFileHandler with:D:\Memoirs\2007. Daretov rodjendan\S4030322.JPG
+16.4.2009 5:31:54 Starting of reading bytes from:D:\Memoirs\2007. Daretov rodjendan\S4030322.JPG
+16.4.2009 5:31:54 data length:1004819
+16.4.2009 5:31:54 finaly after data read
+16.4.2009 5:31:54 closed..
+16.4.2009 5:31:54 data in file array:1004819
+16.4.2009 5:31:54 1
+16.4.2009 5:31:54 2
+16.4.2009 5:31:54 3
+16.4.2009 5:31:54 4 content type:image/JPG
+16.4.2009 5:31:54 5 to header:attachment;filename=S4030322.JPG
+16.4.2009 5:31:54 6 writted file with length:1004819
+16.4.2009 5:31:54 7 flushed
+16.4.2009 5:31:54 8 closed
+16.4.2009 6:00:17 Entry to LogFileHandler with:D:\Memoirs\2007. Daretov rodjendan\S4030315.JPG
+16.4.2009 6:00:23 Entry to LogFileHandler with:D:\Memoirs\2007. Daretov rodjendan\S4030318.JPG
+16.4.2009 6:00:45 Entry to LogFileHandler with:D:\Memoirs\air_look.png
+16.4.2009 6:00:51 Entry to LogFileHandler with:D:\Memoirs\fire.gif
+16.4.2009 6:01:00 Entry to LogFileHandler with:D:\Memoirs\phill.jpg
+16.4.2009 6:01:07 Entry to LogFileHandler with:D:\Memoirs\2008.06.30. Seal2.jpg
+16.4.2009 6:01:18 Entry to LogFileHandler with:D:\Memoirs\Sekina familija\Beba i Misa.jpg

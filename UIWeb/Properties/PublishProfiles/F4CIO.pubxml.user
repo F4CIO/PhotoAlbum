@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Projects\CraftSynth.Album\Published</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BusinessLogic.dll">
+      <publishTime>03/17/2017 06:36:27</publishTime>
+    </File>
+    <File Include="bin/Common.dll">
+      <publishTime>03/17/2017 06:36:26</publishTime>
+    </File>
+    <File Include="bin/Common.dll.config">
+      <publishTime>12/29/2016 16:59:28</publishTime>
+    </File>
+    <File Include="bin/DataAccess.dll">
+      <publishTime>03/17/2017 06:36:26</publishTime>
+    </File>
+    <File Include="bin/entlib.config">
+      <publishTime>04/15/2009 04:30:41</publishTime>
+    </File>
+    <File Include="bin/F4CIOsPhotoAlbum.dll">
+      <publishTime>01/14/2014 14:25:49</publishTime>
+    </File>
+    <File Include="bin/getinfo.aspx.cdcab7d2.compiled">
+      <publishTime>01/14/2014 14:25:49</publishTime>
+    </File>
+    <File Include="bin/localfilehandler.ashx.cdcab7d2.compiled">
+      <publishTime>01/14/2014 14:25:49</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>10/27/2008 09:11:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll">
+      <publishTime>10/27/2008 09:11:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Logging.dll">
+      <publishTime>10/27/2008 09:11:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ObjectBuilder2.dll">
+      <publishTime>10/24/2008 17:03:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>10/24/2008 17:03:22</publishTime>
+    </File>
+    <File Include="bin/photodetails.aspx.cdcab7d2.compiled">
+      <publishTime>01/14/2014 14:25:49</publishTime>
+    </File>
+    <File Include="bin/photofolder.aspx.cdcab7d2.compiled">
+      <publishTime>01/14/2014 14:25:49</publishTime>
+    </File>
+    <File Include="bin/thumbnailhandler.ashx.cdcab7d2.compiled">
+      <publishTime>01/14/2014 14:25:49</publishTime>
+    </File>
+    <File Include="bin/UIWeb.dll">
+      <publishTime>03/17/2017 11:49:29</publishTime>
+    </File>
+    <File Include="CSS/Main.css">
+      <publishTime>03/17/2017 10:32:32</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>01/14/2014 16:09:19</publishTime>
+    </File>
+    <File Include="entlib.config">
+      <publishTime>04/15/2009 04:30:41</publishTime>
+    </File>
+    <File Include="GenericErrorPage.htm">
+      <publishTime>04/15/2009 23:43:07</publishTime>
+    </File>
+    <File Include="GetInfo.aspx">
+      <publishTime>09/28/2013 13:20:29</publishTime>
+    </File>
+    <File Include="Images/Error.jpg">
+      <publishTime>04/14/2009 15:56:13</publishTime>
+    </File>
+    <File Include="Images/Folder.jpg">
+      <publishTime>04/15/2009 19:02:42</publishTime>
+    </File>
+    <File Include="LocalFileHandler.ashx">
+      <publishTime>04/15/2009 16:35:35</publishTime>
+    </File>
+    <File Include="PhotoDetails.aspx">
+      <publishTime>03/17/2017 11:43:49</publishTime>
+    </File>
+    <File Include="PhotoFolder.aspx">
+      <publishTime>03/17/2017 09:31:22</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>01/14/2014 14:25:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.2.0.min.js">
+      <publishTime>03/17/2017 07:21:27</publishTime>
+    </File>
+    <File Include="ThumbnailHandler.ashx">
+      <publishTime>04/14/2009 15:15:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/17/2017 06:49:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
